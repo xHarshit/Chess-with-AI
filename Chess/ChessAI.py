@@ -1,3 +1,5 @@
+#AI part
+
 import random
 
 pieceScore = {"K": 0, "Q": 10, "R": 5, "B": 3, "N": 3, "p": 1}
