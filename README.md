@@ -1,2 +1,2 @@
 # MiniProjectSEM4
-Chess
+Chess with Artificial Intelligence.
