@@ -38,6 +38,8 @@ feel free to contribute :grinning:
 4. Enjoy the game!
 
 ![Chess1](./screenshots/1.png)
+![Chess1](./screenshots/2.png)
+![Chess1](./screenshots/3.png)
 
 #### Keys:
 * Press `z` to undo a move.
