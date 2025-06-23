@@ -65,20 +65,23 @@ Chess-with-AI/
 
 Follow these steps to set up the project locally:
 
-```bash
 git clone https://github.com/xHarshit/Chess-with-AI.git
 cd Chess-with-AI
 python -m pip install -r requirements.txt
 python ChessMain.py
 
-🎮 Controls
+---
+
+## 🎮 Controls
 Press Z → Undo last move
 
 Press R → Reset the game
 
 Click → Select and move pieces
 
-🧩 Future Enhancements
+---
+
+## 🧩 Future Enhancements
  Improve AI with move ordering and opening book
 
  Implement drag-and-drop piece movement
@@ -87,5 +90,8 @@ Click → Select and move pieces
 
  Enhance UI with piece skins and animations
 
-📄 License
+---
+
+## 📄 License
 This project is licensed under the MIT License. Feel free to use and modify it for your own learning or projects.
+
