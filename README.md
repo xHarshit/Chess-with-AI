@@ -37,7 +37,7 @@ feel free to contribute :grinning:
 3. Run `python3 ChessMain.py`.
 4. Enjoy the game!
 
-![PvP Chess Game with move logger](./assets/baord01.png)
+![Chess1](./screenshots/1.png)
 
 #### Keys:
 * Press `z` to undo a move.
