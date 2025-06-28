@@ -94,4 +94,4 @@ python ChessMain.py
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it for your own learning or projects.
+This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it for your own learning or projects. ;)
